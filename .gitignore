@@ -1,0 +1,12 @@
+__pycache__/
+
+/config.py
+
+/data/*
+!/data/attachments/
+!/data/README.md
+
+/data/attachments/*
+!/data/attachments/README.md
+
+/temp/
